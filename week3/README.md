@@ -12,5 +12,5 @@ AJAX allows web pages to be updated asynchronously by exchanging data with a web
 This means that it is possible to update parts of a web page, without reloading the whole page.
 
 This makes no sense without an example. Lets create a small project that
-generates profile information for fake people. [week 3: Ajax
-Example](https://codepen.io/dvontrec/pen/eYpawRx)
+generates profile information for fake people. 
+[week 3: Ajax Example](https://codepen.io/dvontrec/pen/eYpawRx)
